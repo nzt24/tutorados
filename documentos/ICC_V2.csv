@@ -1,0 +1,47 @@
+FGUS001,Formacion Humana y Social,4,Basica,,1
+FGUS002,DHPC,4,Basica,,1
+ICCS001,Matematicas,6,Basica,,1
+CCOS003,Algebra Superior,6,Basica,,1
+CCOS007,Calculo Diferencial,6,Basica,ICCS001,1
+ICCS003,Algebra Lineal con Elementos en Geometria Analitica,6,Basica,CCOS003,1
+CCOS008,Calculo Integral,6,Basica,CCOS007,1
+ICCS002,Fisica I,6,Basica,ICCS001,1
+ICCS004,Fisica II,6,Basica,ICCS002,1
+CCOS001,Metodologia de la Programacion,4,Basica,,1
+CCOS005,Ensamblador,6,Basica,CCOS004,1
+CCOS004,Programacion I,6,Basica,CCOS001,1
+CCOS010,Programacion II,6,Basica,CCOS004,1
+ICCS006,Ecuaciones Diferenciales,6,Basica,CCOS008,1
+ICCS005,Matematicas Discretas,6,Basica,ICCS003,1
+CCOS013,Estructuras de Datos,6,Basica,CCOS010,1
+ICCS007,Circuitos Electricos,6,Basica,ICCS004,1
+CCOS261,Graficacion,6,Basica,CCOS010 y ICCS003,1
+FGUS004,Lengua Extranjera I,4,Basica,,1
+FGUS005,Lengua Extranjera II,4,Basica,FGUS004,1
+FGUS006,Lengua Extranjera III,4,Basica,FGUS005,1
+FGUS007,Lengua Extranjera IV,4,Basica,FGUS006,1
+CCOS251,Probabilidad y Estadistica,6,Formativa,CCOS008,1
+CCOS252,Sistemas Operativos I,6,Formativa,CCOS005 y CCOS013,1
+ICCS250,Circuitos Electronicos,6,Formativa,ICCS007,1
+ICCS251,Programacion Concurrente y Pararlela,6,Formativa,CCOS013 y ISCO201,1
+CCOS254,Sistemas Operativos II,6,Formativa,CCOS252,1
+ICCS252,Programacion Distribuida Aplicada,6,Formativa,ICCS251,1
+ICCS253,Diseno Digital,6,Formativa,ICCS250,1
+ICCS254,Teoria de Control,6,Formativa,ICCS006,1
+ICCS255,Tecnicas de Inteligencia Artificial,6,Formativa,ISCO201,1
+ISCC201,Arquitectura de Computadoras,6,Formativa,ICCS253,1
+ICCS259,Modelo de Redes,6,Formativa,CCOS251,1
+ICCS257,Mineria de Datos,6,Formativa,CCOS251,1
+ICCS258,Desarrollo de Aplicaciones Web,6,Formativa,IDDS001,1
+ICCS260,Redes Inalambricas,6,Formativa,ICCS259,1
+ICCS261,Administracion de Redes,6,Formativa,ICCS260,1
+ICCS256,Bases de Datos para Ingenieria,6,Formativa,CCOS013,1
+ICCS262,Intercomunicacion Seguridad en Redes,6,Formativa,ICCS261,1
+ISCO200,Ingenieria de Software,6,Formativa,CCOS010,1
+ISCO201,Analisis y Diseno de Algoritmos,6,Formativa,CCOS013,1
+IDCC202,Desarrollo de Aplicaciones Moviles,6,Formativa,ICCS258,1
+ISCC202,Sistemas Empotrados,6,Formativa,ISCC201,1
+IDDS001,Administracion de Proyectos,5,Formativa,Nivel Basico,1
+IDDS002,Proyectos I+D I,5,Formativa,IDDS001,1
+SSCC100,Servicio Social,10,Formativa,70% creditos cubiertos,1
+PPCc101,Practica Profesional,5,Formativa,70% creditos cubiertos,1
